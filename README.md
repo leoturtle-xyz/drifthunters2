@@ -12,11 +12,12 @@
   
 <p align="center">
   <a href="#overview">Overview</a>
-  ]
+  
 </p>
 
 
 # Overview  
-  This is Drift Hunters I open sourced from [here](https://chrome.google.com/webstore/detail/drift-hunters/iecnohknckkefejnkpokbnmnhcbngoik) (Warning: I have found malware in it) This Open Source Took around 30 minutes to do hope you enjoy!
+  This is Drift Hunters I open sourced from [here](https://chrome.google.com/webstore/detail/drift-hunters/iecnohknckkefejnkpokbnmnhcbngoik) 
+  (Warning: I have found malware in it) This Open Source Took around 30 minutes to do hope you enjoy!
 
 
