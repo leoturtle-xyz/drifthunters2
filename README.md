@@ -6,7 +6,7 @@
   Drift Hunters
   <br>
 </h1>
-<a href="https://discord.gg/gJy9hSCcAy">
+<a href="https://discord.gg/m6RacNBys7">
     <img src="https://discordapp.com/api/guilds/952398424576253992/widget.png?style=shield" alt="Discord Server">
   </a>
   
