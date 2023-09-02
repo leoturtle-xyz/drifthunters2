@@ -12,15 +12,11 @@
   
 <p align="center">
   <a href="#overview">Overview</a>
-  •
-  <a href="#instalation">Instalation</a>
+  ]
 </p>
 
 
 # Overview  
-  ER:LC Border BOt is a Discord Bot For ER:LC Discord Servers! You Can Self-Host this bot or Host it on anywhere else!
-  Please Give Me Credit!
+  This is Drift Hunters I open sourced from [here](https://chrome.google.com/webstore/detail/drift-hunters/iecnohknckkefejnkpokbnmnhcbngoik) (Warning: I have found malware in it) This Open Source Took around 30 minutes to do hope you enjoy!
 
 
-  # Instalation
-  To set up the Discord Bot you will need a discord bot Tocken. [Go Here](https://discord.com/developers/applications)
