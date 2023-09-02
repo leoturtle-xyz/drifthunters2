@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-<img src="https://github.com/Tylerpizza11/Drift-Hunters/blob/main/build/itchio.jpg?raw=true"></a>
+<img src="https://github.com/Tylerpizza11/Drift-Hunters/blob/main/github/Drift%20Hunters.png?raw=true"></a>
   <br>
   Drift Hunters
   <br>
